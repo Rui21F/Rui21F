@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rui Ferreira</h1>
-<h3 align="center">A passionate junior developer from Portugal</h3>
+<h3 align="center">A passionate fullstack developer from Portugal</h3>
 
 - 🌱 I’m currently learning **Programming in a bootcamp <Academia de Código_>**
 
